@@ -9,4 +9,7 @@ This file is an example of adding a file to GIT repository.
 7. Push
 
 
+Notepad++ works fine. :)
+
+
 
